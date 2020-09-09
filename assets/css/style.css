@@ -2,6 +2,7 @@
 * {
   box-sizing: border-box;
 } 
+
 /* Background pattern from Toptal Subtle Patterns */
 .hero-image {
     background-image: url("/assets/images/double-bubble-outline.png"); 
@@ -9,10 +10,8 @@
   }
 
 h1 {
-    background-image: none;
-    background-color: white;
-    font-weight: bold;
-  }
+  font-weight: bold;
+}
 
 h2 {
   background-image: none;
@@ -26,6 +25,7 @@ section {
   background-color: white;
 }
 
+/* Needed to add style to footer */
 .footer {
   position: fixed;
   bottom: 0;
@@ -36,6 +36,7 @@ section {
   text-align: center;
 }
 
+/* set style for social media buttons */
 .fa {
   padding: 15px;
   font-size: 25px;
@@ -47,11 +48,14 @@ section {
 .fa:hover {
     opacity: 0.7;
 }
+
+/* color buttons for LinkedIn button */
 .fa-linkedin {
   background: #007bb5;
   color: white;
 }
 
+/* color buttons for GitHub button */
 .fa-github {
   background: black;
   color: white;
