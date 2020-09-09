@@ -4,8 +4,7 @@
 } 
 /* Background pattern from Toptal Subtle Patterns */
 .hero-image {
-    /* background-image: url("/assets/images/double-bubble-outline.png"); */
-    background-color: rgba(198, 233, 219, 0.925);
+    background-image: url("assets/images/double-bubble-outline.png"); 
     background-size: auto;
   }
 
@@ -13,7 +12,7 @@ h1 {
     background-image: none;
     background-color: white;
     font-weight: bold;
-    color: #019e9e;
+    color: #019e48;
 }
 
 section {
@@ -30,10 +29,7 @@ section {
   background-color: rgba(128, 128, 128, 0.199);
 }
 
-nav {
-  display: flex;
-  list-style: none;
-}
+
 
 
 
