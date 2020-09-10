@@ -5,7 +5,7 @@
 
 /* Background pattern from Toptal Subtle Patterns */
 .hero-image {
-    background-image: url("/assets/images/double-bubble-outline.png"); 
+    background-image: url("../images/double-bubble-outline.png"); 
     background-size: auto;
   }
 
