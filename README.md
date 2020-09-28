@@ -3,6 +3,8 @@ Al's Portfolio site
 
 ## Description 
 
+![picture of portfolio](assets/images/portfolio.png)
+
 This site that hosts the web projects I have worked on. It is representative of the skills and techniques I have used to create content for the internet. The site will up updated constantly with new content as I develop them.
 
 https://git99-src.github.io/Al_Portfolio/
